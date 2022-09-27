@@ -80,6 +80,7 @@ app.get('/help/*', (req, res) => {
         msg: 'Help article not found'
     })
 })
+
 app.get('/products', (req, res) => {
     if(!req.query.search){
        return res.send({
