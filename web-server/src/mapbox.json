@@ -1,0 +1,36 @@
+[
+    {
+        "title": "sweden",
+        "features":
+            {
+                "center":[
+                        60.1282,
+                        18.6435
+                ]
+            }
+    },
+    {
+        "title": "india",
+        "features":
+            {
+                "center":[
+                        20.5937,
+                        78.9629
+                ]
+            }
+
+    },
+    {
+        "title": "london",
+        "features":
+            {
+                "center":[
+                        51.5072,
+                        0.1276
+                ]
+            }
+
+    }
+
+]
+
